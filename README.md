@@ -1,1 +1,1 @@
-# INTERN_TASK_1_House_Price_Prediction
+# INTERN_TASK_2_House_Price_Prediction
